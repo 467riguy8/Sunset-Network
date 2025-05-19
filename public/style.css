@@ -159,7 +159,7 @@ body.gradientBackground .SNdiscord {
 }
 
 .navbar a {
-    color: #85070c;
+    color: #458796;
     text-decoration: none;
     padding: 10px 15px;
     font-size: 16px;
@@ -168,7 +168,7 @@ body.gradientBackground .SNdiscord {
 }
 
 .navbar a:hover {
-    background-color: #85070c;
+    background-color: #458796;
     transform: scale(1.05);
     border-radius: 10px;
 }
