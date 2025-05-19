@@ -31,7 +31,7 @@
 
 /* Style the scrollbar thumb */
 ::-webkit-scrollbar-thumb {
-    background-color: #5e5e5e;
+    background-color: yellow;
     /* Grey thumb color */
     border-radius: 10px;
     /* Rounded borders */
