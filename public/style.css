@@ -233,21 +233,21 @@ body.gradientBackground .navbar a {
 }
 
 body.gradientBackground #logo {
-    border: solid #8dbfee;
+    border: solid #85070c;
 }
 
 body.gradientBackground .navbar a:hover {
-    background-color: #3e7cd3;
+    background-color: #85070c;
 }
 
 body.gradientBackground .navbar i {
-    color: #ffffffd3;
+    color: #85070c;
 }
 
 /* gradient background */
 body {
     background: fixed;
-    background-image: linear-gradient(#3565a9, #458796, #d29128, #c9c934);
+    background-image: linear-gradient(#85070c, #458796, #d29128, #c9c934);
 }
 
 /* home page */
