@@ -752,27 +752,27 @@ body.gradientBackground .SBT {
 }
 
 body.gradientBackground .gradientButton {
-    border: rgba(60, 214, 235, 0.75) 3px solid;
+    border: #881c09 3px solid;
 }
 
 body.gradientBackground #proxytpe {
-    border: rgba(60, 214, 235, 0.75) 3px solid;
+    border: #881c09 3px solid;
 }
 
 body.gradientBackground #theme {
-    border: rgba(60, 214, 235, 0.75) 3px solid;
+    border: #881c09 3px solid;
 }
 
 body.gradientBackground .Panbutton {
-    border: rgba(60, 214, 235, 0.75) 3px solid;
+    border: #881c09 3px solid;
 }
 
 body.gradientBackground .Changetheeeme {
-    box-shadow: 0 0 30px rgba(153, 243, 255, 0.750);
+    box-shadow: 0 0 30px #881c09;
 }
 
 body.gradientBackground .paniicbuttonn {
-    box-shadow: 0 0 30px rgba(153, 243, 255, 0.750);
+    box-shadow: 0 0 30px #881c09;
 }
 
 body.gradientBackground .Selecthotkeyyyyy {
@@ -858,7 +858,7 @@ body.gradientBackground .proxy::placeholder {
     padding: 10px;
     padding-left: 50px;
     padding-right: 50px;
-    background-image: linear-gradient(#3565a9, #458796, #d29128, #c9c934);
+    background-image: linear-gradient(#80140f, #a31a14, #c82018, #e53129);
     background-size: 100% 100%;
     /* Ensure background image covers the button */
     border-radius: 15px;
