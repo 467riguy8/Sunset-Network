@@ -247,7 +247,7 @@ body.gradientBackground .navbar i {
 /* gradient background */
 body {
     background: fixed;
-    background-image: linear-gradient(#458796, #458796, #d29128, #c9c934);
+    background-image: linear-gradient(#881c09, #881c09, #881c09, #881c09);
 }
 
 /* home page */
