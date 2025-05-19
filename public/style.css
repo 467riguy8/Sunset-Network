@@ -683,11 +683,11 @@ body.gradientBackground .APB {
 }
 
 body.gradientBackground .CLB {
-    box-shadow: 0 0 30px rgba(153, 243, 255);
+    box-shadow: 0 0 30px #881c09;
 }
 
 body.gradientBackground .PRB {
-    box-shadow: 0 0 30px rgba(153, 243, 255);
+    box-shadow: 0 0 30px #881c09;
 }
 
 body.gradientBackground #change-hotkey-btn {
