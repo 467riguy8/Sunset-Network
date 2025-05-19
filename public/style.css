@@ -728,11 +728,11 @@ body.gradientBackground #redirect-url-input {
 
 body {
     background: fixed;
-    background-image: linear-gradient(#3565a9, #458796, #d29128, #c9c934);
+    background-image: linear-gradient(#881c09, #ad2a13, #ec6f13, #e8a82d);
 }
 
 body.gradientBackground {
-    background-image: linear-gradient(#070720, #0f296a, #3565a9);
+    background-image: linear-gradient(#330504, #660b09, #98100d);
 }
 
 body.gradientBackground #redirect-url-input {
